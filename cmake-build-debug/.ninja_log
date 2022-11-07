@@ -1,0 +1,12 @@
+# ninja log v5
+2202	2414	1654182373457229106	kulfi	28ac8ce684e50e9e
+7	4303	1654164784675626816	third_party/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o	c19e89ce94a8fc9a
+10	4251	1654164784626360093	third_party/spdlog/CMakeFiles/spdlog.dir/src/fmt.cpp.o	4009676c40c4a98d
+2	3916	1654164784286887584	third_party/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o	4968addfba3e021
+7554	8142	1654164788532725000	third_party/spdlog/libspdlogd.a	cf9ce8b11961c09d
+3	2201	1654182373247737413	CMakeFiles/kulfi.dir/src/main/main.cpp.o	88de4aa68fbd2b0e
+3	3979	1654164784351194700	third_party/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o	7403c1489bc02231
+1	7553	1654164787916018990	third_party/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o	446e9ed9fffc388a
+5	3350	1654164783713326567	third_party/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o	15188f8a886fd19b
+9	3547	1654164783914431430	third_party/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o	63bbf2f17589d101
+1	4834	1654254669856534481	build.ninja	3f98fb04d57843ee

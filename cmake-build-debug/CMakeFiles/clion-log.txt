@@ -1,0 +1,12 @@
+"/Applications/CLion 2022.2 EAP.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Applications/CLion 2022.2 EAP.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/i501980/Documents/Code/Personal/kulfi -B /Users/i501980/Documents/Code/Personal/kulfi/cmake-build-debug
+-- Using std::filesystem
+-- Build spdlog: 1.10.0
+-- Build type: Debug
+-- Module support is disabled.
+-- Version: 8.1.2
+-- Build type: Debug
+-- CXX_STANDARD: 17
+-- Required features: cxx_variadic_templates
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/i501980/Documents/Code/Personal/kulfi/cmake-build-debug
